@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-02)
+
+<section class="features">
+
+### Features
+
+-   [`a3d171d`](https://github.com/stdlib-js/stdlib/commit/a3d171d68ec3d749dffc1b30e9b0a6faed5ce501) - add C implementation for `stats/base/dists/exponential/mgf` [(#4171)](https://github.com/stdlib-js/stdlib/pull/4171)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3587](https://github.com/stdlib-js/stdlib/issues/3587)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`a3d171d`](https://github.com/stdlib-js/stdlib/commit/a3d171d68ec3d749dffc1b30e9b0a6faed5ce501) - **feat:** add C implementation for `stats/base/dists/exponential/mgf` [(#4171)](https://github.com/stdlib-js/stdlib/pull/4171) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
